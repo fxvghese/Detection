@@ -1,1 +1,1 @@
-Gas Detection
+Gas and Smoke Detection
